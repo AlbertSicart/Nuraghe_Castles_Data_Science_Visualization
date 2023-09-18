@@ -1,9 +1,7 @@
 # Nuraghe_Castles_Data_Science_Visualization
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Archaeological Sites Geospatial Visualization in Sardinia</title>
-</head>
+
 <body>
 
 <h2>Archaeological Sites Geospatial Visualization in Sardinia</h2>
